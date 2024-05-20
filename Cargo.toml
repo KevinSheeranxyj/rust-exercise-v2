@@ -1,4 +1,4 @@
-workspace = { members = ["macro_rules/exercise_01"] }
+workspace = { members = [ "function_exercise", "loop_exercise","macro_rules/exercise_01", "traits_exercise"] }
 [package]
 name = "rust-exercise"
 version = "0.1.0"
